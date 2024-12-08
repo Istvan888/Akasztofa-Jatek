@@ -51,3 +51,9 @@
 <li>Banan</li>
 <li>Szamitogep</li>
 <li>Programozas</li>
+
+<br></br>
+
+<h1>📸Képernyőkép a játékról:</h1>
+
+![Akasztofa](https://github.com/user-attachments/assets/b7ae88e7-c6bb-44c6-b529-4c286e48ba5d)
