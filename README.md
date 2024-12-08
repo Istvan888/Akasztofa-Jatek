@@ -1,2 +1,0 @@
-# Akasztofa-Jatek
-Akasztófa Játék
