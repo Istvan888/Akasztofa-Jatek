@@ -1,11 +1,11 @@
 
-<h1>🎮Akasztófa Játék – Leírás és Útmutató</h1>
+<h1>Akasztófa Játék – Leírás és Útmutató</h1>
 <p>Ez egy egyszerű, Python nyelven készült Akasztófa játék, amelyet egy alapvető grafikus felülettel valósítottunk meg a Tkinter segítségével.</p>
 <p>A játék célja, hogy kitaláld a véletlenszerűen kiválasztott szót, mielőtt túl sok hibás próbálkozásod lenne.</p>
 
 <br></br>
 
-<h1>✨Fő jellemzők:</h1>
+<h1>Fő jellemzők:</h1>
 <li>Felhasználóbarát grafikus felület (Tkinter alapokon).</li>
 <li>Magyar nyelv támogatása – ékezetes karakterek is megadhatók a words.txt fájlban.</li>
 <li>Könnyen bővíthető szavak listája egy külön fájlban: words.txt.</li>
@@ -18,7 +18,7 @@
 
 <br></br>
 
-<h1>🛠️Használat:</h1>
+<h1>Használat:</h1>
 <h3>Fájlok előkészítése:</h3>
   <li>A játékhoz szükség van egy words.txt fájlra, amely tartalmazza az összes használni kívánt szót (minden szó új sorban).</li>
 <p>
@@ -35,14 +35,14 @@
 
 <br></br>
 
-<h1>📋Követelmények:</h1>
+<h1>Követelmények:</h1>
 <li>Python 3.7 vagy újabb.</li>
 <li>Tkinter (általában a Python telepítés része).</li>
 <li>Egy words.txt fájl a játékhoz szükséges szavakkal.</li>
 
 <br></br>
 
-<h1>📄Példa a words.txt fájl tartalmára:</h1>
+<h1>Példa a words.txt fájl tartalmára:</h1>
 <li>PYTHON</li>
 <li>PROGRAMOZAS</li>
 <li>AKASZTOFA</li>
@@ -51,7 +51,7 @@
 
 <br></br>
 
-<h1>📸Képernyőképek a játékról:</h1>
+<h1>Képernyőképek a játékról:</h1>
 
 ![Akasztofa](https://github.com/user-attachments/assets/b7ae88e7-c6bb-44c6-b529-4c286e48ba5d)
 
