@@ -118,6 +118,6 @@ def create_gui(word_list):
 
 if __name__ == "__main__":
     word_file = "words.txt"
-    loaded_words = load_words(word_file)  # A korábbi 'word_list' helyett most 'loaded_words'
+    loaded_words = load_words(word_file) 
     if loaded_words:
         create_gui(loaded_words)
