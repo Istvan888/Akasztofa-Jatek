@@ -27,7 +27,7 @@
 <h3>A játék futtatása:</h3>
   <li>Bizonyosodj meg róla, hogy telepítve van a Python (3.7 vagy újabb verzió).</li>
   <li>Futtasd a következő parancsot a terminálban vagy a parancssorban:</li>
-      <p>python hangman.py</p>
+      <h4>python Akasztofa.py</h4>
 </p>
 <h3>A játék menete:</h3>
   <li>A program véletlenszerűen kiválaszt egy szót a megadott szavak listájából.</li>
