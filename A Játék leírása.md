@@ -1,39 +1,53 @@
-Akasztófa Játék – Leírás és Útmutató 🎮
-Ez egy egyszerű, Python nyelven készült Akasztófa játék, amelyet egy alapvető grafikus felülettel valósítottunk meg a Tkinter segítségével. 
-A játék célja, hogy kitaláld a véletlenszerűen kiválasztott szót, mielőtt túl sok hibás próbálkozásod lenne.
+<h1>🎮Akasztófa Játék – Leírás és Útmutató</h1>
+<p>Ez egy egyszerű, Python nyelven készült Akasztófa játék, amelyet egy alapvető grafikus felülettel valósítottunk meg a Tkinter segítségével.</p>
+<p>A játék célja, hogy kitaláld a véletlenszerűen kiválasztott szót, mielőtt túl sok hibás próbálkozásod lenne.</p>
 
-✨Fő jellemzők:
--Felhasználóbarát grafikus felület (Tkinter alapokon).
--Magyar nyelv támogatása – ékezetes karakterek is megadhatók a words.txt fájlban.
--Könnyen bővíthető szavak listája egy külön fájlban: words.txt.
--Játékállapot kijelzése:
-  -Kitalált betűk és hiányzó betűk megjelenítése.
-  -Hibás próbálkozások számlálása.
--Automatikus győzelem/vereség ellenőrzés üzenetablakkal.
+<br></br>
 
-🛠️Használat:
--Fájlok előkészítése:
-  -A játékhoz szükség van egy words.txt fájlra, amely tartalmazza az összes használni kívánt szót (minden szó új sorban).
--A játék futtatása:
-  -Bizonyosodj meg róla, hogy telepítve van a Python (3.7 vagy újabb verzió).
-  -Futtasd a következő parancsot a terminálban vagy a parancssorban:
-      python hangman.py
--A játék menete:
-  -A program véletlenszerűen kiválaszt egy szót a megadott szavak listájából.
-  -Az egérrel kattints a betűkre, hogy kitaláld a szót.
-  -Legfeljebb 6 hibás próbálkozás megengedett.
-  -Nyertes vagy vesztes esetben egy értesítés jelenik meg, és lehetőséged van új játékot kezdeni.
-  
-📋Követelmények:
--Python 3.7 vagy újabb.
--Tkinter (általában a Python telepítés része).
--Egy words.txt fájl a játékhoz szükséges szavakkal.
+<h1>✨Fő jellemzők:</h1>
+<li>Felhasználóbarát grafikus felület (Tkinter alapokon).</li>
+<li>Magyar nyelv támogatása – ékezetes karakterek is megadhatók a words.txt fájlban.</li>
+<li>Könnyen bővíthető szavak listája egy külön fájlban: words.txt.</li>
+<p>
+<h3>Játékállapot kijelzése:</h3>
+  <li>Kitalált betűk és hiányzó betűk megjelenítése.</li>
+  <li>Hibás próbálkozások számlálása.</li>
+</p>
+<p>
+<li>Automatikus győzelem/vereség ellenőrzés üzenetablakkal.</li>
+</p>
 
-📄Példa a words.txt fájl tartalmára:
--CSS
--Kód másolása
--alma
--körte
--banán
--számítógép
--programozás
+<br></br>
+
+<h1>🛠️Használat:</h1>
+<h3>Fájlok előkészítése:</h3>
+  <li>A játékhoz szükség van egy words.txt fájlra, amely tartalmazza az összes használni kívánt szót (minden szó új sorban).</li>
+<p>
+<h3>A játék futtatása:</h3>
+  <li>Bizonyosodj meg róla, hogy telepítve van a Python (3.7 vagy újabb verzió).</li>
+  <li>Futtasd a következő parancsot a terminálban vagy a parancssorban:</li>
+      <li>python hangman.py</li>
+</p>
+<h3>A játék menete:</h3>
+  <li>A program véletlenszerűen kiválaszt egy szót a megadott szavak listájából.</li>
+  <li>Az egérrel kattints a betűkre, hogy kitaláld a szót.</li>
+  <li>Legfeljebb 6 hibás próbálkozás megengedett.</li>
+  <li>Nyertes vagy vesztes esetben egy értesítés jelenik meg, és lehetőséged van új játékot kezdeni.</li>
+
+<br></br>
+
+<h1>📋Követelmények:</h1>
+<li>Python 3.7 vagy újabb.</li>
+<li>Tkinter (általában a Python telepítés része).</li>
+<li>Egy words.txt fájl a játékhoz szükséges szavakkal.</li>
+
+<br></br>
+
+<h1>📄Példa a words.txt fájl tartalmára:</h1>
+<li>CSS</li>
+<li>Kod masolasa</li>
+<li>Alma</li>
+<li>Körte</li>
+<li>Banan</li>
+<li>Szamitogep</li>
+<li>Programozas</li>
