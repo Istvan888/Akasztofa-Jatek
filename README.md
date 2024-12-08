@@ -13,9 +13,7 @@
 <h3>Játékállapot kijelzése:</h3>
   <li>Kitalált betűk és hiányzó betűk megjelenítése.</li>
   <li>Hibás próbálkozások számlálása.</li>
-</p>
-<p>
-<li>Automatikus győzelem/vereség ellenőrzés üzenetablakkal.</li>
+  <li>Automatikus győzelem/vereség ellenőrzés üzenetablakkal.</li>
 </p>
 
 <br></br>
