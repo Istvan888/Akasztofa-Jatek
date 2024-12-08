@@ -44,16 +44,18 @@
 <br></br>
 
 <h1>📄Példa a words.txt fájl tartalmára:</h1>
-<li>CSS</li>
-<li>Kod masolasa</li>
-<li>Alma</li>
-<li>Körte</li>
-<li>Banan</li>
-<li>Szamitogep</li>
-<li>Programozas</li>
+<li>PYTHON</li>
+<li>PROGRAMOZAS</li>
+<li>AKASZTOFA</li>
+<li>TANULAS</li>
+<li>JATEK</li>
 
 <br></br>
 
-<h1>📸Képernyőkép a játékról:</h1>
+<h1>📸Képernyőképek a játékról:</h1>
 
 ![Akasztofa](https://github.com/user-attachments/assets/b7ae88e7-c6bb-44c6-b529-4c286e48ba5d)
+
+![Gyozelem](https://github.com/user-attachments/assets/5000122b-680f-4746-b148-c40872e0bf54)
+
+![Vereseg](https://github.com/user-attachments/assets/52132e3c-ec1a-416c-9a1d-c5ebf9d9575a)
