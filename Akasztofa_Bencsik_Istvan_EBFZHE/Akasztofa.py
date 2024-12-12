@@ -4,7 +4,6 @@ from random import choice
 
 MAX_WRONG_GUESSES = 6
 
-
 class HangmanGame:
     def __init__(self, root, word_list, label_word, label_status, buttons):
         self.root = root
