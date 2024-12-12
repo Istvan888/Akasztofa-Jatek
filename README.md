@@ -8,7 +8,6 @@
 <h1>Fő jellemzők:</h1>
 <ul>
     <li>Felhasználóbarát grafikus felület (Tkinter alapokon).</li>
-    <li>Magyar nyelv támogatása – ékezetes karakterek is megadhatók a words.txt fájlban.</li>
     <li>Könnyen bővíthető szavak listája egy külön fájlban: words.txt.</li>
 </ul>
 
